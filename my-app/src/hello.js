@@ -1,3 +1,12 @@
-const root =
-ReactDOM.create(document.getElementById('root'));
-root.render(<h1>Hello Rahmawati</h1>);
+function Hello() {
+    return (
+        <div id="root">
+
+
+            <h1> hallo rahma</h1>
+       
+        </div>
+    );
+}
+
+export default Hello;
